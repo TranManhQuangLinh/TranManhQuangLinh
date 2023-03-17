@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiktok.omegatheme.com/static/css/main.29ca256e.css",
+    "main.js": "/tiktok.omegatheme.com/static/js/main.022aaddd.js",
+    "static/js/787.06142a14.chunk.js": "/tiktok.omegatheme.com/static/js/787.06142a14.chunk.js",
+    "index.html": "/tiktok.omegatheme.com/index.html",
+    "main.29ca256e.css.map": "/tiktok.omegatheme.com/static/css/main.29ca256e.css.map",
+    "main.022aaddd.js.map": "/tiktok.omegatheme.com/static/js/main.022aaddd.js.map",
+    "787.06142a14.chunk.js.map": "/tiktok.omegatheme.com/static/js/787.06142a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ca256e.css",
+    "static/js/main.022aaddd.js"
+  ]
+}
